@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  microservice1:
+    image: microservice1:latest
+    ports:
+      - "5001:5001"
+    networks:
+      - microservices_network
+    deploy:
+      replicas: 2
+      restart_policy:
+        condition: on-failure
+
+  microservice2:
+    image: microservice2:latest
+    ports:
+      - "5002:5002"
+    networks:
+      - microservices_network
+    deploy:
+      replicas: 2
+      restart_policy:
+        condition: on-failure
+
+networks:
+  microservices_network:
+
