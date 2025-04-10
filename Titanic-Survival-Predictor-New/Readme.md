@@ -1,5 +1,7 @@
 # 🛳️ Titanic Survival Predictor - A Dockerized Streamlit App
 
+# Live demo: https://my-docker-projects-5uhnrhbwswnxrksw6nnt9m.streamlit.app/
+
 This project is a machine learning-based Titanic survival prediction app built with Streamlit and containerized using Docker. The model predicts whether a passenger survived based on features like age, gender, ticket class, etc.
 
 # 🚀 How to Run the Project
