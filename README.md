@@ -31,3 +31,7 @@ Building and managing a microservices architecture with Docker Swarm.
 
 🔟 Running a Streamlit App in Docker on AWS EC2:
 Deploying a containerized Streamlit app on an AWS EC2 instance.
+
+1️⃣1️⃣ Check out my [Jenkins Pipeline Demo](https://github.com/alveerraa/jenkins-pipeline-demo) repository.
+
+
