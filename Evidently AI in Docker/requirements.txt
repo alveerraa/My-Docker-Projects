@@ -1,5 +1,5 @@
 streamlit
-pandas
+pandas==1.5.3
 scikit-learn
-evidently==0.4.15
+evidently
 
