@@ -1,4 +1,5 @@
-evidently
+streamlit
 pandas
-flask
+scikit-learn
+evidently==0.4.15
 
